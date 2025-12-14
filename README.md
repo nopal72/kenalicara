@@ -1,4 +1,4 @@
-# KenaliCara - Temukan Gaya Belajarmu 🎓
+# KenaliCara - Temukan Cara Belajarmu 🎓
 
 ![KenaliCara Logo](./logo.webp) 
 <!-- *Catatan: Ganti URL gambar di atas dengan logo aplikasi jika ada.* -->
