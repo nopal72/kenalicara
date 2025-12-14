@@ -1,6 +1,6 @@
 # KenaliCara - Temukan Gaya Belajarmu 🎓
 
-![KenaliCara Logo](https://via.placeholder.com/150?text=KenaliCara) 
+![KenaliCara Logo](./logo.webp) 
 <!-- *Catatan: Ganti URL gambar di atas dengan logo aplikasi jika ada.* -->
 
 **KenaliCara** adalah aplikasi berbasis AI yang dirancang untuk membantu siswa mengetahui gaya belajar mereka (Visual, Auditory, Atau Kinesthetic). Dengan memahami gaya belajar, siswa dapat menerapkan metode belajar yang lebih efektif, dan guru dapat merancang strategi pembelajaran yang lebih personal dan tepat sasaran.
