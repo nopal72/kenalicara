@@ -1,0 +1,6 @@
+[submodule "kenalicara-fe"]
+	path = kenalicara-fe
+	url = https://github.com/nopal72/kenalicara-fe
+[submodule "xgboostAPI"]
+	path = xgboostAPI
+	url = https://github.com/nopal72/xgboostAPI
